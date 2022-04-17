@@ -10,6 +10,7 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 - [About the course](#about-the-course)
 - [Hands-on Labs](#hands-on-labs)
+- [Software List](#software-list)
 - [Samples](#samples)
 - [Licensing & Pricing](#pricing)
 - [Resources](#resources)
@@ -60,9 +61,11 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
     
 <br/>
 
+<a id="software-list" />
+
 ### Software List
 
- <!-- CONTENT HERE -->
+Software list to run the hands-on labs is available [here](./Lab-Setup.md)
 
 <br/>
 
