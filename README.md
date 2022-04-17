@@ -58,7 +58,16 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 ## Hands-on Labs 
 
  <!-- CONTENT HERE -->
-    
+ 
+**Requirements:**
+- Azure Account
+  - [Azure Pass](https://www.microsoftazurepass.com/)
+    - You can check the balance of your Azure Pass Credits [here](https://www.microsoftazuresponsorships.com/balance) 
+  - Azure pay-as-you-go (payed)
+  - Sponsored Subscription
+  - [Azure Trial](https://azure.microsoft.com/en-us/free/)
+
+
 <br/>
 
 <a id="software-list" />
