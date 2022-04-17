@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: AZ-204 - Training - Developing Solutions for Microsoft Azure
+description: Companion Material and Resources for Class Delivery by Ricardo Cabral (https://www.rramoscabral.com). 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
