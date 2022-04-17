@@ -25,8 +25,14 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 ## About the course
 
- <!-- CONTENT HERE -->
-
+This course is for developers to create end-to-end solutions in Microsoft Azure using:
+- Azure App Services
+- Azure Compute solutions
+- Azure Functions
+- Azure storage
+- Authentication and authorization
+- Security using Azure KeyVault and Managed Identities
+ 
 <br/>
 
 
