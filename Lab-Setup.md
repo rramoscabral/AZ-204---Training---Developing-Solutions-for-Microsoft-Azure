@@ -42,6 +42,7 @@
 ### Windows Commands
 
 | Command | Description | Link |
+| --- | --- | --- |
 | Setx | Creates or modifies environment variables | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/setx   
 
 
