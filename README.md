@@ -57,8 +57,10 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
  
 ## Hands-on Labs 
 
- <!-- CONTENT HERE -->
- 
+The oficial Hands-on Labs are available [here](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/).
+
+<br/>
+
 **Requirements:**
 - Azure Account
   - [Azure Pass](https://www.microsoftazurepass.com/)
@@ -74,7 +76,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ### Software List
 
-Software list to run the hands-on labs is available [here](./Lab-Setup.md)
+Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 
 <br/>
 
@@ -93,8 +95,10 @@ Software list to run the hands-on labs is available [here](./Lab-Setup.md)
  
 ## Samples
 
- <!-- CONTENT HERE -->
- 
+- [Azure Samples](https://github.com/Azure-Samples)
+- [Microsoft Graph Resources](https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Samples)
+
+
 <br/>
 
 [Return to top](#top)
