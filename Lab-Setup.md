@@ -27,10 +27,11 @@
 | Software | Link |
 | --- | --- |
 | Azure CLI                        | https://docs.microsoft.com/cli/azure/install-azure-cli |
+| Azure Function Core tools        | https://github.com/Azure/azure-functions-core-tools/releases |
 | Azure PowerShell                 | https://docs.microsoft.com/powershell/azure/install-az-ps |
 | Azure Storage Explorer           | https://azure.microsoft.com/features/storage-explorer/   
 | azCopy                           | https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10 |
-| Docker Desktop                   | https://www.docker.com/products/docker-desktop                                          |
+| Docker Desktop                   | https://www.docker.com/products/docker-desktop |
 | Dot NET Core SDK                 | https://dotnet.microsoft.com/download |
 | Git for Windows                  | https://git-scm.com/download/win |
 | Git Extensions                   | http://gitextensions.github.io    
@@ -83,7 +84,7 @@
 
 | Extension | Link |
 | --- | --- |
-| Code Quality NDepend for Azure DevOps, TFS 2017 and TFS 2018 | https://marketplace.visualstudio.com/items?itemName=ndepend.ndependextension&targetId=2ec491f3-0a97-4e53-bfef-20bf80c7e1ea |
+| Azure Functions | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions |
 | Git History | https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory |
 
 
