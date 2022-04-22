@@ -9,6 +9,7 @@ Training for Microsoft Official Course (MOC) AZ-204 - Training - Developing Solu
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
 - [About the course](#about-the-course)
+- [Exam certification](#exam)
 - [Hands-on Labs](#hands-on-labs)
 - [Software List](#software-list)
 - [Samples](#samples)
@@ -33,14 +34,35 @@ This course is for developers to create end-to-end solutions in Microsoft Azure 
 - Azure storage
 - Authentication and authorization
 - Security using Azure KeyVault and Managed Identities
+- Monitoring, troubleshooting, and optimizing Azure solutions
+
  
+**Audience Profile**
+
+Students in this course are interested in Azure development or in passing the Microsoft Azure Developer Associate certification exam.
+
 <br/>
 
-
-The overview of Microsoft Azure Certified is available [here](http://aka.ms/AzureTrainCertDeck).
+The Microsoft Training and Certifications Guide is available [here](https://aka.ms/TrainingCertDeck).
 
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
+<br/>
+
+[Return to top](#top)
+
+<br/>
+
+---
+
+
+<a id="exam" />
+
+<br/>
+
+## Exam
+
+Exam information is available [**here**](./Exam.md).
 
 <br/>
 
@@ -72,9 +94,17 @@ The oficial Hands-on Labs are available [here](https://microsoftlearning.github.
 
 <br/>
 
+[Return to top](#top)
+
+<br/>
+
+---
+
 <a id="software-list" />
 
-### Software List
+<br/>
+
+## Software List
 
 Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 
@@ -92,10 +122,10 @@ Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 
 <br/>
   
- 
 ## Samples
 
-- [Azure Samples](https://github.com/Azure-Samples)
+- [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
+- [Azure Code Samples](https://github.com/Azure-Samples)
 - [Microsoft Graph Resources](https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Samples)
 
 
@@ -115,7 +145,12 @@ Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 
 <br/>
 
- <!-- CONTENT HERE -->
+* [Azure licensing FAQ](https://azure.microsoft.com/en-us/pricing/licensing-faq/)
+* [Azure Offer Details](https://azure.microsoft.com/en-us/support/legal/offer-details/)
+* [Azure pricing and billing FAQ](https://azure.microsoft.com/en-us/pricing/faq/)
+* [Azure support plans](https://azure.microsoft.com/en-us/support/plans/)
+* [Calculate your estimated hourly or monthly costs for using Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
+
 
 <br/>
 
@@ -140,6 +175,10 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 |  Title | Description | URL |
 | --- | --- | --- | 
 | Azure Architecture | Browse examples of architecture diagrams and technology descriptions for common workloads on Azure. | [Link here](https://docs.microsoft.com/en-us/azure/architecture/browse/) |
+| Azure Blog | Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts. [Link here](https://azure.microsoft.com/en-us/blog//) |
+
+| Azure community support | Technical questions provided by Microsoft engineers, community experts, and validated by customers. | [Link here](https://docs.microsoft.com/en-us/answers/products/azure) |
+
 | Cloud Design Patterns | Design patterns for building reliable, scalable, secure applications in the cloud.    | [Link here](https://docs.microsoft.com/en-us/azure/architecture/patterns/) |
 | Microsoft patterns & practices | Design patterns and practices | [Link here](https://github.com/mspnp) |
 | Microsoft Security Development Lifecycle (SDL)| Introduces security and privacy considerations for development. | [Link here](https://www.microsoft.com/en-us/securityengineering/sdl) |

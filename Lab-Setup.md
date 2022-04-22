@@ -18,19 +18,23 @@
 
 ---
 
+<a id="required-software" />
+
 <br/>
 
 ## Required software
 
-<a id="required-software" />
-
 | Software | Link |
 | --- | --- |
 | Azure CLI                        | https://docs.microsoft.com/cli/azure/install-azure-cli |
+| Azure Cosmos DB emulator         | https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator |
 | Azure Function Core tools        | https://github.com/Azure/azure-functions-core-tools/releases |
+| Azure Key Vault Explorer         | https://github.com/microsoft/AzureKeyVaultExplorer/ |
 | Azure PowerShell                 | https://docs.microsoft.com/powershell/azure/install-az-ps |
-| Azure Storage Explorer           | https://azure.microsoft.com/features/storage-explorer/   
+| Azure Storage Explorer           | https://azure.microsoft.com/features/storage-explorer/ |
+| Azurite Sorage emulator cross-platform | https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite |
 | azCopy                           | https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10 |
+| Azure Data Studio                | https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio |
 | Docker Desktop                   | https://www.docker.com/products/docker-desktop |
 | Dot NET Core SDK                 | https://dotnet.microsoft.com/download |
 | Git for Windows                  | https://git-scm.com/download/win |
@@ -47,17 +51,18 @@
 | Setx | Creates or modifies environment variables | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/setx   
 
 
-[Return to top](#top)
+[Return to top](#top) | [Back to main](./README.md)
+
 <br/>
 
 ---
+
+<a id="microsoft-ide" />
 
 <br/>
 
 
 ## Visual Studio & Visual Studio Code IDE
-
-<a id="microsoft-ide" />
 
 | Software | Link |
 | --- | --- |
@@ -69,16 +74,17 @@
  2. .NET 6 is not 100% compatible with Visual Studio 2019
 
 
-[Return to top](#top)
+[Return to top](#top) | [Back to main](./README.md)
 <br/>
 
 ---
+
+<a id="visual-studio-extensions" />
 
 <br/>
 
 ## Visual Studio Extensions
 
-<a id="visual-studio-extensions" />
 
 [Visual Studio Extensions Marketplace](https://marketplace.visualstudio.com/vs)
 
@@ -89,16 +95,17 @@
 
 
 
-[Return to top](#top)
+[Return to top](#top) | [Back to main](./README.md)
 <br/>
 
 ---
 
+<a id="visual-studio-code-extensions" />
+
+
 <br/>
 
 ## Visual Studio Code Extensions
-
-<a id="visual-studio-code-extensions" />
 
 [Visual Studio Code Extensions Marketplace](https://marketplace.visualstudio.com/vscode)
 
@@ -116,5 +123,6 @@
 | PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
-[Return to top](#top)
+[Return to top](#top) | [Back to main](./README.md)
+
 <br/>
