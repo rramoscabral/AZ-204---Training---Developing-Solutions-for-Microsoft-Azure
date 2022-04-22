@@ -11,8 +11,9 @@
 
 - [About the exam](#about-the-exam)
 - [Skills measure](#skills-measured)
-- [Score needed to pass exam*](#score-needed-to-pass-exam")
+- [Score needed to pass exam](#score-needed-to-pass-exam)
 - [Exam experience](#exam-experience)
+- [Where can I take the exam](#where-can-i-take-the-exam)
 - [Exam Polices and FAQ](#exam-polices-and-faq)
 
 
@@ -94,7 +95,14 @@ As a result, using this sandbox should better prepare you for the exam experienc
 
 <br/>
 
-**Where can I take the exam**
+---
+
+<a id="where-can-i-take-the-exam" />
+
+<br/>
+
+### **Where can I take the exam**
+
 
 You can take an exam in two ways, at a testing center or online proctored exams. Both are carried out under the management of Pearson VUE.
 
