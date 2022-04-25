@@ -4,7 +4,7 @@
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
 
-Training for Microsoft Official Course (MOC) AZ-204 - Training - Developing Solutions for Microsoft Azure 
+Training for Microsoft Official Course (MOC) AZ-204: Developing Solutions for Microsoft Azure 
 
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
@@ -62,7 +62,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ## Exam
 
-Exam information is available [**here**](./Exam.md).
+Exam information is available [**here**](./EXAM.md).
 
 <br/>
 
@@ -106,11 +106,9 @@ The oficial Hands-on Labs are available [here](https://microsoftlearning.github.
 
 ## Software List
 
-Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
+Software list to run the hands-on labs is available [**here**](./LAB-SETUP.md)
 
 <br/>
-
-
 
 [Return to top](#top)
 
@@ -142,8 +140,6 @@ Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 <br/>
 
 ## Licensing & Pricing
-
-<br/>
 
 * [Azure licensing FAQ](https://azure.microsoft.com/en-us/pricing/licensing-faq/)
 * [Azure Offer Details](https://azure.microsoft.com/en-us/support/legal/offer-details/)

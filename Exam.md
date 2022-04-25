@@ -11,6 +11,7 @@
 
 - [About the exam](#about-the-exam)
 - [Skills measure](#skills-measured)
+- [Official practice test](#official-practice-test)
 - [Score needed to pass exam](#score-needed-to-pass-exam)
 - [Exam experience](#exam-experience)
 - [Where can I take the exam](#where-can-i-take-the-exam)
@@ -26,6 +27,8 @@
 <br/>
 
 ### **About the exam**
+
+**Microsoft Certified: Azure Developer Associate**
 
 The certification consists of only one exam. This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services. You will be able to select the code language (C# or Python) that’s included in the questions when you launch the exam. 
 
@@ -62,6 +65,39 @@ The exam measured skills are constantly being updated due to dynamic cloud servi
 
 ---
 
+<a id="official-practice-test" />
+
+<br/>
+
+### **Official practice test**
+
+The Official practice test are carried out on MeasureUp.
+They offer the official practice test, certKit, assessment, video training or bundles.
+
+The practice test is designed to help candidates prepare for and pass the Microsoft exam.
+
+You can access demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
+  1. Access [www.measureup.com](https://www.measureup.com).
+  1. Hover the mouse over Sign in, and click on SIGN IN.
+  1. Type your username and password, and click on Sign in.
+  1. On the top menu, hover the mouse over Account, and click on My Learning Locker.
+  1. Click on Open Demo Test List.
+
+<br/>
+
+You can buy the practice test at:
+- [measureup](https://www.measureup.com/az-204-developing-solutions-for-microsoft-azure.html).
+- [mindhub](https://eu1.mindhub.com/az-204-developing-solutions-for-microsoft-azure-microsoft-official-practice-test/p/MU-AZ-204).
+
+
+
+<br/>
+
+[Return to top](#top) | [Back to main](./README.md)
+
+<br/>
+
+
 <a id="score-needed-to-pass-exam" />
 
 <br/>
@@ -92,6 +128,10 @@ You can demo the exam experience by visiting the *exam sandbox* at [https://aka.
 In the sandbox, you will be able to interact with the different question types (e.g., build list, drag and drop, etc.) that are available in the actual user interface that you will navigate during the exam. In addition, this experience includes the same introductory screens, instructions, and question type help information that you will see on your exam as well as the non-disclosure agreement that you must agree to before launching the exam.
 
 As a result, using this sandbox should better prepare you for the exam experience and increase your familiarity with the user interface, how to navigate between pages and questions, what actions are required to answer each of the different question types, where information about the exam is located (e.g., time remaining, questions remaining, etc.), how to mark questions for review, and how to leave comments.
+
+<br/>
+
+[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 
@@ -153,6 +193,8 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-
 [Return to top](#top) | [Back to main](./README.md)
+
 <br/>
+
+---
