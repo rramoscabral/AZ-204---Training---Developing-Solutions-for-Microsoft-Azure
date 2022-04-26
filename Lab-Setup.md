@@ -6,9 +6,10 @@
 
 # Software list to run the labs 
 
- - [Required software](#required-software)
- - [Visual Studio & Visual Studio Code IDE](#microsoft-ide)
- - [Visual Studio Extensions](#visual-studio-extensions)
+- [Required software](#required-software)
+- [Windows Commands](#windows-commands)
+- [Visual Studio & Visual Studio Code IDE](#microsoft-ide)
+- [Visual Studio Extensions](#visual-studio-extensions)
 
 
 **Notes:**
@@ -46,8 +47,17 @@
 
 <br/>
 
+[Return to top](#top) | [Back to main](./README.md)
 
-### Windows Commands
+<br/>
+
+---
+
+<a id="windows-commands" />
+
+<br/>
+
+## Windows Commands
 
 | Command | Description | Link |
 | --- | --- | --- |
