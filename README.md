@@ -62,7 +62,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ## Exam
 
-Exam information is available [**here**](./EXAM.md).
+Exam information is available [**here**](./Exam.md).
 
 <br/>
 
@@ -106,7 +106,7 @@ The oficial Hands-on Labs are available [here](https://microsoftlearning.github.
 
 ## Software List
 
-Software list to run the hands-on labs is available [**here**](./LAB-SETUP.md)
+Software list to run the hands-on labs is available [**here**](./Lab-setup.md)
 
 <br/>
 
@@ -173,7 +173,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Azure Architecture | Browse examples of architecture diagrams and technology descriptions for common workloads on Azure. | [Link here](https://docs.microsoft.com/en-us/azure/architecture/browse/) |
 | Azure Blog | Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts. [Link here](https://azure.microsoft.com/en-us/blog//) |
 | Azure community support | Technical questions provided by Microsoft engineers, community experts, and validated by customers. | [Link here](https://docs.microsoft.com/en-us/answers/products/azure) |
-| Cloud Design Patterns | Design patterns for building reliable, scalable, secure applications in the cloud. | [Link here](https://docs.microsoft.com/en-us/azure/architecture/patterns/) |
+| Cloud Design Patterns | Design patterns for building reliable, scalable, secure applications in the cloud.    | [Link here](https://docs.microsoft.com/en-us/azure/architecture/patterns/) |
 | Microsoft patterns & practices | Design patterns and practices | [Link here](https://github.com/mspnp) |
 | Microsoft Security Development Lifecycle (SDL)| Introduces security and privacy considerations for development. | [Link here](https://www.microsoft.com/en-us/securityengineering/sdl) |
 | Technical Case Studies | Microsoft technical Case Studies | [Link here](https://microsoft.github.io/techcasestudies/) |
