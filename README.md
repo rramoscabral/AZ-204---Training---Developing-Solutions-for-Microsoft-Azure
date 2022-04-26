@@ -62,7 +62,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ## Exam
 
-Exam information is available [**here**](./EXAM.md).
+Exam information is available [**here**](./exam.md).
 
 <br/>
 
@@ -106,7 +106,7 @@ The oficial Hands-on Labs are available [here](https://microsoftlearning.github.
 
 ## Software List
 
-Software list to run the hands-on labs is available [**here**](./LAB-SETUP.md)
+Software list to run the hands-on labs is available [**here**](./lab-setup.md)
 
 <br/>
 
