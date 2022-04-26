@@ -171,7 +171,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 |  Title | Description | URL |
 | --- | --- | --- | 
 | Azure Architecture | Browse examples of architecture diagrams and technology descriptions for common workloads on Azure. | [Link here](https://docs.microsoft.com/en-us/azure/architecture/browse/) |
-| Azure Blog | Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts. [Link here](https://azure.microsoft.com/en-us/blog//) |
+| Azure Blog | Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts. | [Link here](https://azure.microsoft.com/en-us/blog/) |
 | Azure community support | Technical questions provided by Microsoft engineers, community experts, and validated by customers. | [Link here](https://docs.microsoft.com/en-us/answers/products/azure) |
 | Cloud Design Patterns | Design patterns for building reliable, scalable, secure applications in the cloud.    | [Link here](https://docs.microsoft.com/en-us/azure/architecture/patterns/) |
 | Microsoft patterns & practices | Design patterns and practices | [Link here](https://github.com/mspnp) |
