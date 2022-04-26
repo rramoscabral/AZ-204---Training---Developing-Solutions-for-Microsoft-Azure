@@ -106,7 +106,7 @@ The oficial Hands-on Labs are available [here](https://microsoftlearning.github.
 
 ## Software List
 
-Software list to run the hands-on labs is available [**here**](./Lab-setup.md)
+Software list to run the hands-on labs is available [**here**](./Lab-Setup.md)
 
 <br/>
 
