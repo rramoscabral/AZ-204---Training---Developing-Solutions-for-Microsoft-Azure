@@ -42,7 +42,10 @@
 | Node.js & npm LTS                | https://nodejs.org/en/download/ |
 | PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
 
+> Note: The table is sorted alphabetically
+
 <br/>
+
 
 ### Windows Commands
 
@@ -50,6 +53,9 @@
 | --- | --- | --- |
 | Setx | Creates or modifies environment variables | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/setx   
 
+> Note: The table is sorted alphabetically
+
+<br/>
 
 [Return to top](#top) | [Back to main](./README.md)
 
@@ -74,7 +80,12 @@
  2. .NET 6 is not 100% compatible with Visual Studio 2019
 
 
+> Note: The table is sorted alphabetically
+
+<br/>
+
 [Return to top](#top) | [Back to main](./README.md)
+
 <br/>
 
 ---
@@ -95,7 +106,12 @@
 
 
 
+> Note: The table is sorted alphabetically
+
+<br/>
+
 [Return to top](#top) | [Back to main](./README.md)
+
 <br/>
 
 ---
@@ -122,6 +138,10 @@
 | C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
 | PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
+
+> Note: The table is sorted alphabetically
+
+<br/>
 
 [Return to top](#top) | [Back to main](./README.md)
 
