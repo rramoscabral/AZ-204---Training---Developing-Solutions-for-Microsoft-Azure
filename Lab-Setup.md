@@ -141,11 +141,14 @@
 | Azure Account Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account |
 | Azure CLI Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli |
 | Azure CLI Pipelines Extension |https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines |
+| Azure Functions | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions |
+| Azure Logic Apps (Consumption) | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps | 
 | Azure Repos Extension |https://marketplace.visualstudio.com/items?itemName=ms-vsts.team |
 | Azure Resource Manager Tools Extension | https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools |
 | Azure Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack |
 | Bicep | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep |
 | C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
+| GitHub Codespaces | https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces |
 | PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
