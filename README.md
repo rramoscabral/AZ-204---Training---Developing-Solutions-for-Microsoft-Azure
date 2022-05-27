@@ -60,7 +60,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 <br/>
 
-## Exam
+## Exam certification
 
 Exam information is available [**here**](./Exam.md).
 
