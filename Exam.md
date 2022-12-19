@@ -34,7 +34,7 @@ The certification consists of only one exam. This exam measures your ability to 
 
 <br/>
 
-You can explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare [**here**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5)
+You can explore steps to get certified as an Azure Developer Associate and review the resources available to help you prepare [**here**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
