@@ -137,7 +137,9 @@ Azure Account or Authorized Lab Hoster for Microsoft Official Curriculum (MOC) c
 
 > Note: The table is sorted alphabetically
 
+
 **Notes:**
+
 1. .NET and .NET Core release lifecycle is available here: https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core.
 1. Visual Studio 2022 supports the following .NET implementations:
     - .NET Framework versions 4.8.1, 4.8, 4.7.2, 4.7.1, 4.7, and 4.6.2
@@ -148,7 +150,7 @@ Azure Account or Authorized Lab Hoster for Microsoft Official Curriculum (MOC) c
 1. Visual Studio 2017 is not 100% compatible with .NET Core 3 SDK, you can use it by enable "previews of the .NET Core SDK".
 
 
-> Note: The table is sorted alphabetically
+
 
 <br/>
 
