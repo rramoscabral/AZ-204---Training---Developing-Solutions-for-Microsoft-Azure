@@ -14,22 +14,14 @@ Earning Azure Developer Associate certification validates the skills and knowled
 
 - [AZ-204: Developing Solutions for Microsoft Azure ](./about-the-course.md)
   - [Course outline](./about-the-course.md#course-outline)
-
 - [Exam certification](./exam.md)
   - [Official practice test](https://www.measureup.com/az-204-developing-solutions-for-microsoft-azure.html#u5)
-
 - [Assessment](./Assessment/assessment.md)
-
 - [Hands-on Labs](./hands-on-labs.md)
-
 - [Applied Skills](./applied-skills.md)
-
 - [Samples](./samples.md)
-
 - [Licensing & Pricing](./licensing-pricing.md)
-
 - [Resources](./resources.md)
-
 <!-- - [User groups](./usergroups.md) -->
 <!-- - [Microsoft customer stories](./microsoft-customer-stories.md) -->
 
