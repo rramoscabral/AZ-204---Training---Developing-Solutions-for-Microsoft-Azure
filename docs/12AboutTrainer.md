@@ -1,22 +1,33 @@
-<a id="top" />
-
-<br/>
-
-
-# AZ-204T00-A: Azure Developer Associate 
-
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course AZ-204T00-A: Developing Solutions for Microsoft Azure.
-
-<br/>
-
-## Description
-
-This course provides students with the fundamental knowledge and skills to create end-to-end solutions in Microsoft Azure using.
-
-This course provides students the skills how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure their solutions by using KeyVault and Managed Identities. 
-
-
 ---
+layout: default
+title: 'About the Trainer'
+nav_order: 12
+
+has_children: false
+---
+
+# About the Trainer
+{: .no_toc }
+
+
+<p align="center">
+  <img src="https://rramoscabral.com/assets/imgs/ricardocabral.jpg" alt="Ricardo Cabral Photo"/>
+</p>
+
+
+
+
+### Hi there 👋
+
+[Ricardo Cabral](https://rramoscabral.com/) is a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
+
+He has extensive experience on Microsoft 365, Microsoft Artificial Intelligence (AI) Solutions, Microsoft Azure, Microsoft Azure DevOps, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
+
+Now works as Azure Solutions Architect, IT consultant, and IT trainer at [NWORKIT Digital Solutions](https://www.nworkit.pt).
+
+In his free time, he is actively participating, volunteering, speaking and organizing technical community meetings. 
+
+
 
 <!-- followme -->
 
@@ -49,8 +60,5 @@ This course provides students the skills how to implement Azure compute solution
 </div>
 
 
-<br/>
 
----
-
-<br/>
+<br>
