@@ -4,6 +4,11 @@
 # Windows
 desktop.ini
 
+# Virtual environments
+openai/
+aiwins/
+.venv/
+.env/
 
 
 # User-specific files
