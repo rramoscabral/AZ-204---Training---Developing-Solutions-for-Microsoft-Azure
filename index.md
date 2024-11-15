@@ -139,7 +139,3 @@ This course provides students the skills to identify and build the command they 
 </div>
 
 <br/>
-
----
-
-<br/>
