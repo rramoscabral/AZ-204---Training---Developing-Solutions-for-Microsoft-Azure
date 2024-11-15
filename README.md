@@ -3,18 +3,17 @@
 <br/>
 
 
-# AZ-204T00-A: Azure Developer Associate 
+# AZ-204T00-A: Developing Solutions for Microsoft Azure
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course AZ-204T00-A: Developing Solutions for Microsoft Azure.
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-204: Developing Solutions for Microsoft Azure.
 
 <br/>
 
 ## Description
 
-This course provides students with the fundamental knowledge and skills to create end-to-end solutions in Microsoft Azure using.
+This course teaches developers how to create end-to-end solutions in Microsoft Azure.
 
-This course provides students the skills how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure their solutions by using KeyVault and Managed Identities. 
-
+Students will learn how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure their solutions by using KeyVault and Managed Identities. 
 
 ---
 
