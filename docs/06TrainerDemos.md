@@ -50,7 +50,7 @@ has_children: false
 <br/>
 
 
-## Learning Path 02: 
+## Learning Path 02: Implement task processing logic by using Azure Functions
 
 <!-- Demonstrations -->
 

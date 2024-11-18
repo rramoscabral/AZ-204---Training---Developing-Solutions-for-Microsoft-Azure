@@ -25,6 +25,7 @@ has_children: false
 
 Microsoft Applied Skills is a new verifiable credential that validates that you have the targeted skills needed to implement critical projects aligned to business goals and objectives. **Applied Skills credentials are not replacing Certifications.**
 
+
 <br/>
 
 ## How to earn your Microsoft Applied Skills credentials
@@ -40,6 +41,11 @@ Earn your credential by passing an online, interactive, lab-based assessment tha
 | There are no applied skills related to the course content. ||
 
 
+| Assessment | Overview |
+| --- | --- | 
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | Demonstrate yout ability to securely store business data by using Azure Blob Storage and Azure Files. | 
+| [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/)   | Demonstrate your ability to deploy cloud-native applications to Azure Container Apps (ACA). |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) |
 
 
 <br/>
