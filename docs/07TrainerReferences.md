@@ -21,25 +21,22 @@ has_children: false
 
 <br/>
 
-## Learning Path 1: 
+## Learning Path 1: Implement Azure App Service web apps
 
-
-<!--
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Explore Azure App Service | -[Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Azure App Service plan overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans) <br> - [App Service Environment v3 and App Service public multitenant comparison](https://learn.microsoft.com/en-us/azure/app-service/environment/ase-multi-tenant-comparison) |
 
 
 <br/>
 
 ## Learning Path 2: Implement task processing logic by using Azure Functions
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Develop Azure Functions | - [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) |
+
 
 <br/>
 
