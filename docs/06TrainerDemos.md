@@ -62,7 +62,7 @@ has_children: false
 <br/>
 
 
-## Learning Path 03: 
+## Learning Path 03: Develop solutions that use Blob storage
 
 <!-- Demonstrations -->
 
@@ -73,7 +73,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 04:
+## Learning Path 04: Develop solutions that use Azure Cosmos DB
 
 
 <!-- Demonstrations -->
@@ -85,7 +85,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 05: 
+## Learning Path 05: Implement containerized solutions
 
 <!-- Demonstrations -->
 
@@ -96,31 +96,7 @@ has_children: false
 <br/>
 
 
-## Learning Path 06: 
-
-<!-- Demonstrations -->
-
-
-<br/>
-
----
-
-<br/>
-
-
-## Learning Path 07: 
-
-<!-- Demonstrations -->
-
-
-
-<br/>
-
----
-
-<br/>
-
-## Learning Path 08:
+## Learning Path 06: Implement user authentication and authorization
 
 
 <!-- Demonstrations -->
@@ -133,8 +109,19 @@ has_children: false
 <br/>
 
 
+## Learning Path 07: Implement secure cloud solutions
 
-## Learning Path 09: 
+<!-- Demonstrations -->
+
+
+
+<br/>
+
+---
+
+<br/>
+
+## Learning Path 08: Implement API Management
 
 
 <!-- Demonstrations -->
@@ -148,7 +135,20 @@ has_children: false
 
 
 
-## Learning Path 10: 
+## Learning Path 09: Develop event-based solutions
+
+<!-- Demonstrations -->
+
+
+<br/>
+
+---
+
+<br/>
+
+
+
+## Learning Path 10: Develop message-based solutions
 
 
 <!-- Demonstrations -->
@@ -162,7 +162,7 @@ has_children: false
 
 
 
-## Learning Path 11: 
+## Learning Path 11: Troubleshoot solutions by using Application Insights
 
 
 <!-- Demonstrations -->
@@ -175,7 +175,7 @@ has_children: false
 <br/>
 
 
-## Learning Path 12: 
+## Learning Path 12: Implement caching for solutions
 
 
 <!-- Demonstrations -->

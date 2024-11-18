@@ -25,7 +25,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Explore Azure App Service | -[Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Azure App Service plan overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans) <br> - [App Service Environment v3 and App Service public multitenant comparison](https://learn.microsoft.com/en-us/azure/app-service/environment/ase-multi-tenant-comparison) |
+| Explore Azure App Service | - [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Azure App Service plan overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans) <br> - [App Service Environment v3 and App Service public multitenant comparison](https://learn.microsoft.com/en-us/azure/app-service/environment/ase-multi-tenant-comparison) |
 
 
 <br/>
@@ -40,7 +40,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 3: 
+## Learning Path 3: Develop solutions that use Blob storage
 
 <!--
 | Lessons | Notes |
@@ -51,7 +51,7 @@ has_children: false
 <br/>
 
 
-## Learning Path 4: 
+## Learning Path 4: Develop solutions that use Azure Cosmos DB
 
 <!--
 | Lessons | Notes |
@@ -61,7 +61,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 5: 
+## Learning Path 5: Implement containerized solutions
 
 
 <!--
@@ -75,31 +75,9 @@ has_children: false
 
 <br/>
 
-## Learning Path 6: 
-
-<!--
-| Lessons | Notes |
-| --- | --- |
-| --- | --- |
--->
+## Learning Path 6: Implement user authentication and authorization
 
 
-
-<br/>
-
-## Learning Path 7:
-
-
-<!--
-| Lessons | Notes |
-| --- | --- |
-| --- | --- |
--->
-
-
-<br/>
-
-## Learning Path 8:
 <!--
 | Lessons | Notes |
 | --- | --- |
@@ -110,7 +88,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 9:
+## Learning Path 7: Implement secure cloud solutions
 
 
 <!--
@@ -122,8 +100,18 @@ has_children: false
 
 <br/>
 
-## Learning Path 10:
+## Learning Path 8: Implement API Management
+<!--
+| Lessons | Notes |
+| --- | --- |
+| --- | --- |
+-->
 
+
+
+<br/>
+
+## Learning Path 9: Develop event-based solutions
 
 <!--
 | Lessons | Notes |
@@ -134,7 +122,18 @@ has_children: false
 
 <br/>
 
-## Learning Path 11: 
+## Learning Path 10: Develop message-based solutions
+
+<!--
+| Lessons | Notes |
+| --- | --- |
+| --- | --- |
+-->
+
+
+<br/>
+
+## Learning Path 11: Troubleshoot solutions by using Application Insights
 
 <!--
 | Lessons | Notes |
@@ -145,7 +144,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 11: 
+## Learning Path 12: Implement caching for solutions
 <!--
 | Lessons | Notes |
 | --- | ---
