@@ -6,19 +6,17 @@ nav_order: 1
 
 # Companion Material and Resources
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course 'AZ-040T00-A: Automating Administration with PowerShell'.
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course 'AZ-204T00-A: Developing Solutions for Microsoft Azure'.
 
-It is designed for IT Professionals  with the fundamental knowledge and skills to use PowerShell for administering and automating administration of Windows servers
+It is designed for IT Professionals with the fundamental knowledge and skills to create end-to-end solutions in Microsoft Azure. 
 
-The Course **AZ-040T00-A** is developed by the **Microsoft Learning** nd replace the retired Microsoft course **10961C: Automating Administration with Windows Powershell**.
+The Course **AZ-204T00-A** is developed by the **Microsoft Learning**.
 
 <br/>
 
-
-|  Level        | Product                   | Role                  | Course Duration  |  Exam     | Related certifications | 
-| :---:         | :---:                     | :---:                 | :---:            | :---:     |  :---: |
-|  Advanced     | Microsoft Windows Server  | System Administrator  | 5 days           | No exam.  |  No related certifications |
-
+|  Level        | Product                   | Role                  | Course Duration  | Related certifications | 
+| :---:         | :---:                     | :---:                 | :---:            | :---:     |  
+|  Intermediate | Azure                     | Developer             | 5 days           | [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) |
 
 
 <br/>
@@ -26,9 +24,9 @@ The Course **AZ-040T00-A** is developed by the **Microsoft Learning** nd replace
 <!-- Learning objectives -->
 **Learning objectives**
 
-Students will learn how to use PowerShell for administering and automating administration of Windows servers. 
+Students will also learn how to connect to and consume Azure services and third-party services, and include event- and message-based models in their solutions.
 
-This course provides students the skills to identify and build the command they require to perform a specific task. In addition, students learn how to build scripts to accomplish advanced tasks such as automating repetitive tasks and generating reports. 
+The course also covers monitoring, troubleshooting, and optimizing Azure solutions.
 
 <br/>
 

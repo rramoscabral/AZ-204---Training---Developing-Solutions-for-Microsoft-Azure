@@ -31,9 +31,9 @@ This course provides students the skills how to implement Azure compute solution
 This course provides prerequisite skills how to connect to and consume Azure services and third-party services, and include event and message-based models in their solutions. The course also covers monitoring, troubleshooting, and optimizing Azure solutions.
 
 
-|  Level        | Product                   | Role                  | Course Duration  |  Exam     | Related certifications | 
-| :---:         | :---:                     | :---:                 | :---:            | :---:     |  :---: |
-|  Intermediate    | Azure  | Developer  | 5 days           | [Azure Developer Associate](./04ExamCertification.md)  | Azure Developer Associate |
+|  Level        | Product                   | Role                  | Course Duration  |  Related certifications | 
+| :---:         | :---:                     | :---:                 | :---:            | :---:     |
+|  Intermediate | Azure                     | Developer             | 5 days           | [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) |
 
 
 <!-- Course Objectives -->

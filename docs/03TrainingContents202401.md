@@ -11,7 +11,7 @@ parent: 'Training Contents'
 
 
 
-Training content for 2024
+Training content for January 2024 
 
 ## Table of contents
 {: .no_toc .text-delta }
