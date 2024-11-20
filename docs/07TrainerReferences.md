@@ -42,33 +42,34 @@ has_children: false
 
 ## Learning Path 3: Develop solutions that use Blob storage
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Blobs | - [Understanding block blobs, append blobs, and page blobs](https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs) |
+
 
 <br/>
 
 
 ## Learning Path 4: Develop solutions that use Azure Cosmos DB
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
+| Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
+| Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
 
 <br/>
 
 ## Learning Path 5: Implement containerized solutions
 
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Manage Container Images in Azure Container Registry | -[Dockerfile reference](https://docs.docker.com/engine/reference/builder/) |
+
 
 
 
@@ -78,12 +79,11 @@ has_children: false
 ## Learning Path 6: Implement user authentication and authorization
 
 
-<!--
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
-
+| Explore the Microsoft identity platform | - [What is the Microsoft identity platform?](https://learn.microsoft.com/en-us/entra/identity-platform/v2-overview) |
+| Implement authentication by using the Microsoft Authentication Library | - [Choosing a version of MSAL.NET](https://learn.microsoft.com/en-us/entra/msal/dotnet/getting-started/choosing-msal-dotnet) |
+| Explore Microsoft Graph | - [Microsoft Graph quick start](https://developer.microsoft.com/en-us/graph/quick-start) <br> - [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) | 
 
 
 <br/>
@@ -91,21 +91,21 @@ has_children: false
 ## Learning Path 7: Implement secure cloud solutions
 
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) |
+
 
 
 <br/>
 
 ## Learning Path 8: Implement API Management
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://docs.microsoft.com/en-us/azure/api-management/api-management-policies) |
+
 
 
 
@@ -113,11 +113,11 @@ has_children: false
 
 ## Learning Path 9: Develop event-based solutions
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Explore Azure Event Grid | - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
+
 
 
 <br/>

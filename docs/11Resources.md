@@ -56,11 +56,25 @@ No content.
 | Documentation | Description |
 | --- | --- | 
 | Azure App Service     |  - [App Service documentation.](https://learn.microsoft.com/en-us/azure/app-service/) <br> - [Configure Azure App Service plans.](https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans) <br> - [Deploy a website to Azure with Azure App Service.](https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-app-service) <br> - [CLI samples.](https://learn.microsoft.com/en-us/azure/app-service/samples-cli) <br> - [Understand how to plan and manage costs for App Service.](https://learn.microsoft.com/en-us/azure/app-service/overview-manage-costs) |
-| Azure API Management | - [Azure API Management: Manage APIs across all environments with a hybrid, multicloud platform.](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) |
-|  Azure Blob storage | - [Azure Blob storage: Store massive amounts of unstructured data.](https://learn.microsoft.com/en-us/azure/storage/blobs) <br> - [Archive storage: Choose a low-cost option for rarely accessed data.](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview) |
 | Azure Virtual Machines (VM) | - [Azure VM series and sizes.](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes) |
 | Azure Monitor | - [Log Analytics: Edit and run log queries from data collected and analyze their results.](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial) |
 | Load Balancer | - [Azure Application Gateway: Manage traffic to your web apps with a web load balancer.](https://learn.microsoft.com/en-us/azure/application-gateway/overview) <br> - [Azure Traffic Manager: Distribute traffic to your public-facing apps across global regions with a DNS-based load balancer.](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview) |
+| Azure Functions | - [Azure Functions documentation.](https://docs.microsoft.com/en-us/azure/azure-functions/) | 
+| Azure Container Solutions | - [Azure Container Solutions documentation.](https://learn.microsoft.com/en-us/azure/containers/) <br> - [Azure Container Registry documentation.](https://docs.microsoft.com/en-us/azure/container-registry/) <br> - [Azure Container Instance documentation.](https://docs.microsoft.com/en-us/azure/container-instances/) <br> - [Azure Container Apps documentation.](https://docs.microsoft.com/en-us/azure/container-apps/) |
+| Azure Blob storage | - [Azure Blob Storage documentation.](https://docs.microsoft.com/en-us/azure/storage/blobs/)  <br> - [Azure Blob storage: Store massive amounts of unstructured data.](https://learn.microsoft.com/en-us/azure/storage/blobs) <br> - [Archive storage: Choose a low-cost option for rarely accessed data.](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview) |
+| Azure Cosmos DB | - [Azure Cosmos DB documentation.](https://docs.microsoft.com/en-us/azure/cosmos-db/) |
+| Microsoft Identity Platform |  [Microsoft Identity Platform documentation.](https://learn.microsoft.com/en-us/entra/identity-platform/) <br> - [Azure Managed Identities documentation.](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview) <br> - [Microsoft Entra ID documentation.](https://learn.microsoft.com/en-us/entra/identity/) |
+| Microsoft Graph | -  [Microsoft Graph documentation.](https://learn.microsoft.com/en-us/graph/) |
+| Azure Key Vault | - [Azure Key Vault documentation.](https://docs.microsoft.com/en-us/azure/key-vault/) |
+| Azure App Configuration | -  [Azure App Configuration  documentation.](https://learn.microsoft.com/en-us/azure/azure-app-configuration/) |
+| Azure API Management | -  [Azure API Management documentation.](https://docs.microsoft.com/en-us/azure/api-management/) <br> - [Azure API Management: Manage APIs across all environments with a hybrid, multicloud platform.](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) |
+| Azure Cache for Redis | - [Azure Cache for Redis documentation.](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/) |
+| Azure Content Delivery Network (CDN) | -  [Azure Content Delivery Network (CDN) documentation.](https://docs.microsoft.com/en-us/azure/cdn/) |
+| Azure Application Insights | -  [Azure Application Insights documentation.](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
+| Azure Event Grid | - [Azure Event Grid documentation.](https://docs.microsoft.com/en-us/azure/event-grid/)  |
+| Message Queues | - [Message Queues documentation.](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted) <br> - [Azure Service Bus documentation.](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) <br> - [Azure Queue Storage documentation.](https://docs.microsoft.com/en-us/azure/storage/queues/) |
+
+
 
 <br/>
 
