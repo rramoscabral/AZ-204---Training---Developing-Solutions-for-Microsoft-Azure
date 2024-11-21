@@ -94,7 +94,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) |
+| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) |
 
 
 
@@ -104,7 +104,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://docs.microsoft.com/en-us/azure/api-management/api-management-policies) |
+| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies) <br> - [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
+ 
 
 
 
@@ -117,6 +118,8 @@ has_children: false
 | Lessons | Notes |
 | --- | --- |
 | Explore Azure Event Grid | - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
+| Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) - <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) |
+| Hands-on Labs            | - [Azure-Samples/azure-event-grid-viewer](https://github.com/Azure-Samples/azure-event-grid-viewer) |
 
 
 
@@ -145,11 +148,12 @@ has_children: false
 <br/>
 
 ## Learning Path 12: Implement caching for solutions
-<!--
+
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Develop for Azure Cache for Redis | - [Redis Open Source](https://redis.io) <br> - [Redis enterprise](https://redis.com) - <br> [Redis CLI](https://redis.io/docs/manual/cli/) |
+| Develop for storage on CDNs | - [Content Delivery Network limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#content-delivery-network-limits) |
 
 
 <br/>
