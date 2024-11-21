@@ -118,7 +118,7 @@ has_children: false
 | Lessons | Notes |
 | --- | --- |
 | Explore Azure Event Grid | - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
-| Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) - <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) |
+| Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) - <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) <br> - [Stream processing with Azure Stream Analytics (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics) |
 | Hands-on Labs            | - [Azure-Samples/azure-event-grid-viewer](https://github.com/Azure-Samples/azure-event-grid-viewer) |
 
 
@@ -127,22 +127,22 @@ has_children: false
 
 ## Learning Path 10: Develop message-based solutions
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Service Bus | - [Use a message broker and events to integrate enterprise systems (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events) |
+
 
 
 <br/>
 
 ## Learning Path 11: Troubleshoot solutions by using Application Insights
 
-<!--
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Application Insights | - [Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
+
 
 
 <br/>
