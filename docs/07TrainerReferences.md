@@ -63,7 +63,8 @@ has_children: false
 | | - Item         | - [Azure Cosmos DB properties of an item](https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#properties-of-an-item) |
 | | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
 | | - Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
-| Work with Azure Cosmos DB |  - .NET C# | - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
+| Work with Azure Cosmos DB |  - .NET SDK | -[Azure Cosmos DB Developer](https://developer.azurecosmosdb.com) <br> - [Azure Cosmos DB SDKs](https://developer.azurecosmosdb.com/community/sdk) <br> - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
+| Extra | Migrate data  | - [Migrate data to Azure Cosmos DB using the desktop data migration tool](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-migrate-desktop-tool) <br> - [Migrate hundreds of terabytes of data into Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/migrate) |
 
 
 
