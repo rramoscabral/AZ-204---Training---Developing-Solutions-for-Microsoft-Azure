@@ -25,7 +25,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Explore Azure App Service | - [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Azure App Service plan overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans) <br> - [App Service Environment v3 and App Service public multitenant comparison](https://learn.microsoft.com/en-us/azure/app-service/environment/ase-multi-tenant-comparison) |
+| Explore Azure App Service | - [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Azure App Service plan overview](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans) <br>  - [App Service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#app-service-limits) <br> - [App Service Environment v3 and App Service public multitenant comparison](https://learn.microsoft.com/en-us/azure/app-service/environment/ase-multi-tenant-comparison) |
+| Extra | - [Tutorial: Isolate back-end communication in Azure App Service with Virtual Network integration](https://learn.microsoft.com/en-us/azure/app-service/tutorial-networking-isolate-vnet) | 
 
 
 <br/>
@@ -35,7 +36,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Develop Azure Functions | - [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) |
+| Explore Azure Functions | - [Azure Functions pricing](https://azure.microsoft.com/en-us/pricing/details/functions/) |
+| Develop Azure Functions | - [Develop Azure Functions locally using Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) <br>  - [Code and test Azure Functions locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local)  <br> -  [Develop Azure Functions by using Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code) <br> - [Command line tools for Azure Functions (GitHub)](https://github.com/Azure/azure-functions-core-tools) |  
 
 
 <br/>
@@ -45,7 +47,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Blobs | - [Understanding block blobs, append blobs, and page blobs](https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs) |
+| Explore Azure Blob storage | - [Understanding block blobs, append blobs, and page blobs](https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs) <br> - [Access tiers for blob data](https://learn.microsoft.com/en-gb/azure/storage/blobs/access-tiers-overview) |
+| Work with Azure Blob storage | - [BlobContainerClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobcontainerclient)  <br> - [Azure Storage REST API Reference](https://learn.microsoft.com/en-us/rest/api/storageservices/) |
 
 
 <br/>
