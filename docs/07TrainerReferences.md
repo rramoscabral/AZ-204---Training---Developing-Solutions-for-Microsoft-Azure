@@ -56,11 +56,18 @@ has_children: false
 ## Learning Path 4: Develop solutions that use Azure Cosmos DB
 
 
-| Lessons | Notes |
-| --- | --- |
-| Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
-| Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
-| Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
+| Lessons | | Notes |
+| --- | --- | --- | 
+| Explore Azure Cosmos DB | - Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [How to choose between standard (manual) and autoscale provisioned throughput](https://learn.microsoft.com/en-gb/azure/cosmos-db/how-to-choose-offer) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
+| | - Partitioning | - [Partitioning and horizontal scaling in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/partitioning-overview) | 
+| | - Item         | - [Azure Cosmos DB properties of an item](https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#properties-of-an-item) |
+| | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
+| | - Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
+| Work with Azure Cosmos DB |  - .NET C# | - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
+
+
+
+
 
 <br/>
 
@@ -151,7 +158,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Develop for Azure Cache for Redis | - [Redis Open Source](https://redis.io) <br> - [Redis enterprise](https://redis.com) - <br> [Redis CLI](https://redis.io/docs/manual/cli/) |
+| Develop for Azure Cache for Redis | - [Redis Open Source](https://redis.io) <br> - [Redis enterprise](https://redis.com) <br> - [Redis CLI](https://redis.io/docs/manual/cli/) |
 | Develop for storage on CDNs | - [Content Delivery Network limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#content-delivery-network-limits) |
 
 
