@@ -48,8 +48,7 @@ has_children: false
 | Lessons | Notes |
 | --- | --- |
 | Explore Azure Blob storage | - [Understanding block blobs, append blobs, and page blobs](https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs) <br> - [Access tiers for blob data](https://learn.microsoft.com/en-gb/azure/storage/blobs/access-tiers-overview) |
-| Work with Azure Blob storage | - [BlobContainerClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobcontainerclient)  <br> - [Azure Storage REST API Reference](https://learn.microsoft.com/en-us/rest/api/storageservices/) |
-
+| Work with Azure Blob storage | - [BlobClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobclient) <br> - [BlobClientOptions Class](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobclientoptions) <br> - [BlobContainerClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobcontainerclient)  <br> - [BlobServiceClient](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.blobserviceclient) <br> - [BlobUriBuilder](https://learn.microsoft.com/en-us/dotnet/api/azure.storage.blobs.bloburibuilder) <br> - [Azure Storage REST API Reference](https://learn.microsoft.com/en-us/rest/api/storageservices/) |
 
 <br/>
 
@@ -71,10 +70,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Manage Container Images in Azure Container Registry | -[Dockerfile reference](https://docs.docker.com/engine/reference/builder/) |
-
-
-
+| Manage Container Images in Azure Container Registry | - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/) |
 
 
 <br/>
