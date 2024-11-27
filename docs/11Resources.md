@@ -31,7 +31,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 ## Interactive Guides
 
-No content.
+<!-- No content. -->
 
 
 | Topic | Guide |
@@ -107,7 +107,8 @@ No content.
 
 | Blog | Description | 
 | --- | --- | 
-
+| [Microsoft Developer Blogs](https://devblogs.microsoft.com) | Get the latest information, insights, and news from Microsoft. |
+| [Microsoft Developer Community Blog](https://techcommunity.microsoft.com/category/azure/blog/azuredevcommunityblog) | Interesting content from the technical community here! | 
 
 
 
@@ -115,21 +116,16 @@ No content.
 
 ##  Community
 
-<!--
+
 | Tech Community | Description | 
 | --- | --- | 
-|     |     |
-
--->
+| [Microsoft developer communities](https://developer.microsoft.com/en-us/community) | Connect with fellow developers, attend a local user group. |
 
 
 
 <br/>
 
 ## Newsletter
-
-No content.
-
  
 | Newsletter | Description | 
 | --- | --- | 
