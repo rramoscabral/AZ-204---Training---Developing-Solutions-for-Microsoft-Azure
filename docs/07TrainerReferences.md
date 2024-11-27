@@ -58,7 +58,7 @@ has_children: false
 
 | Lessons | | Notes |
 | --- | --- | --- | 
-| Explore Azure Cosmos DB | - Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [How to choose between standard (manual) and autoscale provisioned throughput](https://learn.microsoft.com/en-gb/azure/cosmos-db/how-to-choose-offer) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
+| Explore Azure Cosmos DB | -  [Azure Cosmos DB developer](https://developer.azurecosmosdb.com) <br> - Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [How to choose between standard (manual) and autoscale provisioned throughput](https://learn.microsoft.com/en-gb/azure/cosmos-db/how-to-choose-offer) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
 | | - Partitioning | - [Partitioning and horizontal scaling in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/partitioning-overview) | 
 | | - Item         | - [Azure Cosmos DB properties of an item](https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#properties-of-an-item) |
 | | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
@@ -74,11 +74,13 @@ has_children: false
 
 ## Learning Path 5: Implement containerized solutions
 
-
-
 | Lessons | Notes |
 | --- | --- |
-| Manage Container Images in Azure Container Registry | - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/) |
+| Manage Container Images in Azure Container Registry | - [Dockerfile reference (Docker Docs)](https://docs.docker.com/engine/reference/builder/) <br> - [Dockerfile on Windows](https://learn.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile) <br> - [Publishing and exposing ports (Docker Docs)](https://docs.docker.com/get-started/docker-concepts/running-containers/publishing-ports/) <br> - [ACR Service tier features and limits](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-skus#service-tier-features-and-limits) |
+| Run container images in Azure Container Instances  | - [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) <br> - [Choose an Azure compute option for microservices](https://learn.microsoft.com/en-us/azure/architecture/microservices/design/compute-options) <br> - [Microsoft Artifact Registry](https://mcr.microsoft.com/) <br> - [Use storage mounts in Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts) <br> - [Docker Volumes (Docker Docs)](https://docs.docker.com/engine/storage/volumes/) |
+| Implement Azure Container Apps  | - [Azure Container Apps overview](https://learn.microsoft.com/en-us/azure/container-apps/overview) <br> -[Azure Container Apps (Darp Docs)](https://docs.dapr.io/operations/hosting/serverless/azure-container-apps/) <br> - [Tutorial: Deploy a Dapr application to Azure Container Apps using the Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr) |
+
+
 
 
 <br/>
@@ -86,10 +88,10 @@ has_children: false
 ## Learning Path 6: Implement user authentication and authorization
 
 
-| Lessons | Notes |
+| Lessons |Notes |
 | --- | --- |
-| Explore the Microsoft identity platform | - [What is the Microsoft identity platform?](https://learn.microsoft.com/en-us/entra/identity-platform/v2-overview) |
-| Implement authentication by using the Microsoft Authentication Library | - [Choosing a version of MSAL.NET](https://learn.microsoft.com/en-us/entra/msal/dotnet/getting-started/choosing-msal-dotnet) |
+| Explore the Microsoft identity platform |  - [What is the Microsoft identity platform?](https://learn.microsoft.com/en-us/entra/identity-platform/v2-overview) |
+| Implement authentication by using the Microsoft Authentication Library | - [Overview of the Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview) <br> - [Choosing a version of MSAL.NET](https://learn.microsoft.com/en-us/entra/msal/dotnet/getting-started/choosing-msal-dotnet) |
 | Explore Microsoft Graph | - [Microsoft Graph quick start](https://developer.microsoft.com/en-us/graph/quick-start) <br> - [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) | 
 
 
@@ -97,13 +99,10 @@ has_children: false
 
 ## Learning Path 7: Implement secure cloud solutions
 
-
-
 | Lessons | Notes |
 | --- | --- |
-| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) |
-
-
+| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) |
+| Implement managed identities | - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) <br> - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) |
 
 <br/>
 
@@ -112,9 +111,6 @@ has_children: false
 | Lessons | Notes |
 | --- | --- |
 | - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies) <br> - [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
- 
-
-
 
 
 <br/>
