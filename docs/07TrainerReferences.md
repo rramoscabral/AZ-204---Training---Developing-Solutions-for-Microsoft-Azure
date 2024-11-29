@@ -64,7 +64,7 @@ has_children: false
 | | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
 | | - Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
 | Work with Azure Cosmos DB |  - .NET SDK | -[Azure Cosmos DB Developer](https://developer.azurecosmosdb.com) <br> - [Azure Cosmos DB SDKs](https://developer.azurecosmosdb.com/community/sdk) <br> - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
-| Extra | Migrate data  | - [Migrate data to Azure Cosmos DB using the desktop data migration tool](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-migrate-desktop-tool) <br> - [Migrate hundreds of terabytes of data into Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/migrate) |
+| Extra | - Migrate data  | - [Migrate data to Azure Cosmos DB using the desktop data migration tool](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-migrate-desktop-tool) <br> - [Migrate hundreds of terabytes of data into Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/migrate) |
 
 
 
@@ -101,8 +101,9 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) |
+| Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) <br> - [Use Key Vault references as app settings in Azure App Service and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references) |
 | Implement managed identities | - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) <br> - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) |
+| Extra | - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview) <br> - [What is Azure Private Endpoint and Azure Private Link Service?](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq#what-is-azure-private-endpoint-and-azure-private-link-service-) |
 
 <br/>
 
@@ -110,7 +111,16 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies) <br> - [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
+| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/
+api-management/api-management-policies) <br> 
+
+<br> - [Azure APIM - Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually) 
+
+<br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies)
+
+<br>
+
+- [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
 
 
 <br/>
@@ -121,7 +131,8 @@ has_children: false
 | Lessons | Notes |
 | --- | --- |
 | Explore Azure Event Grid | - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
-| Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) - <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) <br> - [Stream processing with Azure Stream Analytics (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics) |
+| Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) <br> - [Stream processing with Azure Stream Analytics (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics) |
+| Explore Azure Event Hubs | - [Scaling with Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability#throughput-units) <br> - [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
 | Hands-on Labs            | - [Azure-Samples/azure-event-grid-viewer](https://github.com/Azure-Samples/azure-event-grid-viewer) |
 
 
@@ -133,7 +144,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Service Bus | - [Use a message broker and events to integrate enterprise systems (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events) |
+| Service Bus | - [Use a message broker and events to integrate enterprise systems (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events) <br> - [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
 
 
 
@@ -143,8 +154,9 @@ has_children: false
 
 
 | Lessons | Notes |
-| --- | ---
-| Application Insights | - [Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
+| --- | --- |
+| Azure Monitor Insights | - [Azure Monitor Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview) |
+| Application Insights | - [Azure Monitor Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
 
 
 
@@ -155,9 +167,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Develop for Azure Cache for Redis | - [Redis Open Source](https://redis.io) <br> - [Redis enterprise](https://redis.com) <br> - [Redis CLI](https://redis.io/docs/manual/cli/) |
+| Develop for Azure Cache for Redis | - [Redis Open Source (Redis.io)](https://Redis.io) <br> - [Redis Cloud Essentials plans (Redis.io)](https://Redis.io/docs/latest/operate/rc/subscriptions/view-essentials-subscription/essentials-plan-details/) <br> - [Redis enterprise](https://redis.com) <br> - [Redis CLI (Redis.io) ](https://Redis.io/docs/manual/cli/) |
 | Develop for storage on CDNs | - [Content Delivery Network limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#content-delivery-network-limits) |
-
 
 <br/>
 
