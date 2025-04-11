@@ -55,6 +55,8 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 | Documentation | Description |
 | --- | --- | 
+| Cloud Adoption Framework | - [Azure Naming Conventions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming) <br> - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging) <br> - [Abbreviation recommendations for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations) <br> - [Define your tagging strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging) <br> - [Resource naming and tagging decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide) <br> - [Move Azure resources to a new resource group or subscription](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription) |
+| Azure CLI             | -  [Azure CLI reference](https://learn.microsoft.com/en-us/cli/azure/reference-index) <br> - [How to install the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) |
 | Azure App Service     |  - [App Service documentation.](https://learn.microsoft.com/en-us/azure/app-service/) <br> - [Configure Azure App Service plans.](https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans) <br> - [Deploy a website to Azure with Azure App Service.](https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-app-service) <br> - [CLI samples.](https://learn.microsoft.com/en-us/azure/app-service/samples-cli) <br> - [Understand how to plan and manage costs for App Service.](https://learn.microsoft.com/en-us/azure/app-service/overview-manage-costs) |
 | Azure Virtual Machines (VM) | - [Azure VM series and sizes.](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes) |
 | Azure Monitor | - [Log Analytics: Edit and run log queries from data collected and analyze their results.](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial) |
@@ -72,6 +74,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Azure Content Delivery Network (CDN) | -  [Azure Content Delivery Network (CDN) documentation.](https://docs.microsoft.com/en-us/azure/cdn/) |
 | Azure Application Insights | -  [Azure Application Insights documentation.](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
 | Azure Event Grid | - [Azure Event Grid documentation.](https://docs.microsoft.com/en-us/azure/event-grid/)  |
+| Azure Event Hub | - [Azure Event Hubs documentation](https://learn.microsoft.com/en-us/azure/event-hubs/) | 
 | Message Queues | - [Message Queues documentation.](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted) <br> - [Azure Service Bus documentation.](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) <br> - [Azure Queue Storage documentation.](https://docs.microsoft.com/en-us/azure/storage/queues/) |
 
 

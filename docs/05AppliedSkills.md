@@ -43,6 +43,9 @@ Earn your credential by passing an online, interactive, lab-based assessment tha
 | [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/)   | Demonstrate your ability to deploy cloud-native applications to Azure Container Apps (ACA). |
 | [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | Demonstrate the ability to deploy and configure monitoring for Azure infrastructure. |
 
+* [Browse for another Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+* [View Applied Skills poster](https://aka.ms/AppliedSkillsPoster)
 
 <br/>
 

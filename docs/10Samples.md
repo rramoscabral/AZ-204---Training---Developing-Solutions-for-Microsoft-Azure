@@ -17,6 +17,8 @@ has_children: false
 | [Azure Container Registry samples(GitHub)](https://github.com/Azure/acr)                           | Azure Container Registry samples, troubleshooting tips and references. |
 | [Microsoft Graph Resources](https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Samples) | Microsoft Graph Resources. |
 | [Azure App Service CLI samples](https://learn.microsoft.com/en-us/azure/app-service/samples-cli)   | CLI samples for Azure App Service. |
+| [Azure sandbox environment](https://github.com/Azure-Samples/azuresandbox)                         | Stand up an Azure sandbox environment for accelerating your projects in an hour.  |
+
 
 
 

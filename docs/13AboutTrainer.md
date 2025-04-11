@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'About the Trainer'
-nav_order: 12
+nav_order: 13
 
 has_children: false
 ---

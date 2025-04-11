@@ -1,18 +1,18 @@
 ---
 layout: default
-title: 'Training Contents 2024'
-nav_order: 2
+title: 'Training Contents 2025'
+nav_order: 1
 has_children: false
 parent: 'Training Contents'
 ---
 
 
-# Course outline January 2024 
+# Course outline February 2025
 {: .no_toc }
 
 
 
-Training content for January 2024 
+Training content for February 2025 
 
 ## Table of contents
 {: .no_toc .text-delta }
