@@ -58,7 +58,8 @@ has_children: false
 
 | Lessons | | Notes |
 | --- | --- | --- | 
-| Explore Azure Cosmos DB | - Explore Azure Cosmos DB for developers | -  [Azure Cosmos DB developer](https://developer.azurecosmosdb.com) <br> - Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [How to choose between standard (manual) and autoscale provisioned throughput](https://learn.microsoft.com/en-gb/azure/cosmos-db/how-to-choose-offer) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
+| Explore Azure Cosmos DB | - Explore Azure Cosmos DB for developers | -  [Azure Cosmos DB developer](https://developer.azurecosmosdb.com)| 
+| | - Resource Units | - [How to choose between provisioned throughput and serverless](https://learn.microsoft.com/en-gb/azure/cosmos-db/throughput-serverless) <br> - [How to choose between standard (manual) and autoscale provisioned throughput](https://learn.microsoft.com/en-gb/azure/cosmos-db/how-to-choose-offer) <br> - [Azure Cosmos DB capacity calculator](https://cosmos.azure.com/capacitycalculator/) <br> - [Azure Cosmos DB pricing](https://azure.microsoft.com/en-us/pricing/details/cosmos-db/standard-provisioned/) |
 | | - Partitioning | - [Partitioning and horizontal scaling in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/partitioning-overview) | 
 | | - Item         | - [Azure Cosmos DB properties of an item](https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#properties-of-an-item) |
 | | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
@@ -111,17 +112,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/
-api-management/api-management-policies) <br> 
-
-<br> - [Azure APIM - Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually) 
-
-<br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies)
-
-<br>
-
-- [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
-
+| - Explore API Management | - [Azure API Management v2 tiers Supported regions](https://learn.microsoft.com/en-us/azure/api-management/v2-service-tiers-overview#supported-regions) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies) <br> - [Azure APIM - Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually) <br> - [API Management policy reference](https://learn.microsoft.com/en-us/azure/api-management/api-management-policies) <br> - [Tutorial: Import and publish your first API](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish) |
 
 <br/>
 

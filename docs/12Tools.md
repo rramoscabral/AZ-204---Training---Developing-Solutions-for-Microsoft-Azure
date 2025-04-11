@@ -10,8 +10,6 @@ has_children: false
 {: .no_toc }
 
 
-# Tools
-
 Tools for managing and interacting with Azure services.
 
 <br>
