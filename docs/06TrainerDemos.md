@@ -55,6 +55,9 @@ has_children: false
 <!-- Demonstrations -->
 
 
+
+
+
 <br/>
 
 ---
@@ -67,6 +70,30 @@ has_children: false
 <!-- Demonstrations -->
 
 
+- **Create Azure Storage Account using PowerShell**
+
+    ```powershell
+    # Connect to Azure
+    Connect-AzAccount
+    
+    # Create new resouce group
+    $varRG = "storage-rg"
+    New-AzResourceGroup -Name $varRG -Location 'North Europe'
+    
+    # Create new storage accountr
+    New-AzStorageAccount -Name psstorage001 -ResourceGroupName $varRG -Location 'North Europe' `
+        -SkuName Standard_ZRS -Kind StorageV2
+    ```
+
+- **Create Azure Storage Account using CLI**
+
+    ```bash
+    az login
+
+    az storage account create --name azclistorage001 --resource-group storage-rg --Location 'North Europe' --sku Standard_ZRS --kind StorageV2
+    ```
+
+    
 <br/>
 
 ---
