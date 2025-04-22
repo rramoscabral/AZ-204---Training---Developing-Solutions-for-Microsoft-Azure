@@ -105,7 +105,7 @@ has_children: false
 | --- | --- |
 | Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) <br> - [Use Key Vault references as app settings in Azure App Service and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references)  <br> - [New Thales Luna HSM Bring Your Own Key (BYOK) for Microsoft Azure Key Vault](https://data-protection-updates.gemalto.com/2020/08/07/new-thales-luna-hsm-bring-your-own-key-byok-for-microsoft-azure-key-vault/) |
 | Implement managed identities | - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) <br> - [What is Azure attribute-based access control (Azure ABAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-overview) | <br> - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) |
-| Implement Azure App Configuration | - [What is Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview) <br> [Azure App Configuration best practices](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-best-practices) | 
+| Implement Azure App Configuration | - [What is Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview) <br> - [Azure App Configuration best practices](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-best-practices) | 
 | Extra | - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview) <br> - [What is Azure Private Endpoint and Azure Private Link Service?](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq#what-is-azure-private-endpoint-and-azure-private-link-service-) |
 
 <br/>
@@ -148,7 +148,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Azure Monitor Insights | - [Azure Monitor overview](https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview) <br> - [Azure Monitor Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview) |
+| Azure Monitor Insights | - [Azure Monitor overview](https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview) <br> - [Log Analytics workspace overview](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview)<br> - [SQL to Kusto cheat sheet](https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=microsoft-fabric) <br> - [Azure Monitor Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview) |
 | Application Insights   | - [Azure Monitor Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
 
 
