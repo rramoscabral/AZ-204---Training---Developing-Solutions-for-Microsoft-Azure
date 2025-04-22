@@ -64,7 +64,7 @@ has_children: false
 | | - Item         | - [Azure Cosmos DB properties of an item](https://learn.microsoft.com/en-us/azure/cosmos-db/resource-model#properties-of-an-item) |
 | | - Consistency levels | - [Consistency levels in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels) |
 | | - Queries | - [Cosmos DB Documents](https://learn.microsoft.com/en-us/rest/api/cosmos-db/documents)
-| Work with Azure Cosmos DB |  - .NET SDK | -[Azure Cosmos DB Developer](https://developer.azurecosmosdb.com) <br> - [Azure Cosmos DB SDKs](https://developer.azurecosmosdb.com/community/sdk) <br> - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
+| Work with Azure Cosmos DB |  - .NET SDK | - [Azure Cosmos DB Developer](https://developer.azurecosmosdb.com) <br> - [Azure Cosmos DB SDKs](https://developer.azurecosmosdb.com/community/sdk) <br> - [CosmosClient Class](https://learn.microsoft.com/en-us/dotnet/api/microsoft.azure.cosmos.cosmosclient) |
 | Extra | - Migrate data  | - [Migrate data to Azure Cosmos DB using the desktop data migration tool](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-migrate-desktop-tool) <br> - [Migrate hundreds of terabytes of data into Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/migrate) |
 
 
@@ -105,7 +105,7 @@ has_children: false
 | --- | --- |
 | Implement Azure Key Vault | - [Azure Key Vault developer's guide]( https://learn.microsoft.com/en-us/azure/key-vault/general/developers-guide) <br> - [Azure Key Vault availability and redundancy](https://learn.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance) <br> - [Azure Key Vault REST API reference](https://learn.microsoft.com/en-us/rest/api/keyvault/) <br> - [Use Key Vault references as app settings in Azure App Service and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references)  <br> - [New Thales Luna HSM Bring Your Own Key (BYOK) for Microsoft Azure Key Vault](https://data-protection-updates.gemalto.com/2020/08/07/new-thales-luna-hsm-bring-your-own-key-byok-for-microsoft-azure-key-vault/) |
 | Implement managed identities | - [Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals) <br> - [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) <br> - [What is Azure attribute-based access control (Azure ABAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-overview) | <br> - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles) <br> - [Steps to assign an Azure role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps) |
-| Implement Azure App Configuration |  | 
+| Implement Azure App Configuration | - [What is Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview) <br> [Azure App Configuration best practices](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-best-practices) | 
 | Extra | - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview) <br> - [What is Azure Private Endpoint and Azure Private Link Service?](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq#what-is-azure-private-endpoint-and-azure-private-link-service-) |
 
 <br/>
@@ -123,7 +123,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Explore Azure Event Grid | - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
+| Explore Azure Event Grid | [Publisher-Subscriber pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber) <br> - [Azure Event Grid event schema](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) |
 | Explorer Azure Event Hubs | - [Schema Registry in Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts) <br> - [Client-side schema enforcement](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement) <br> - [Stream processing with Azure Stream Analytics (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics) |
 | Explore Azure Event Hubs | - [Scaling with Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability#throughput-units) <br> - [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
 | Hands-on Labs            | - [Azure-Samples/azure-event-grid-viewer](https://github.com/Azure-Samples/azure-event-grid-viewer) |
@@ -137,7 +137,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Service Bus | - [Use a message broker and events to integrate enterprise systems (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events) <br> - [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
+| Service Bus | - [Use a message broker and events to integrate enterprise systems (Architecture)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events) <br> - [Storage queues and Service Bus queues - compared and contrasted](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted) <br> - [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
 
 
 
@@ -148,8 +148,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Azure Monitor Insights | - [Azure Monitor Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview) |
-| Application Insights | - [Azure Monitor Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
+| Azure Monitor Insights | - [Azure Monitor overview](https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview) <br> - [Azure Monitor Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview) |
+| Application Insights   | - [Azure Monitor Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) |
 
 
 
